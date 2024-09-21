@@ -1,23 +1,3 @@
-Skip to content
-Navigation Menu
-
-Code
-Issues
-Pull requests
-BreadcrumbsPuki-Project
-/install.sh
-Latest commit
-Alwaysfaxz
-Alwaysfaxz
-last month
-History
-485 lines (442 loc) · 17.7 KB
-File metadata and controls
-
-Code
-
-Blame
-hackback_panel() {
 #!/bin/bash
 
 # Color
