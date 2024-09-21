@@ -1,5 +1,4 @@
 
-
 # Minta input dari pengguna
 read -p "Masukkan domain: " domain
 read -p "Masukkan Email: " email
@@ -9,16 +8,16 @@ read -p "Masukkan Domainnode: " domainnode
 
 bash <(curl -s https://pterodactyl-installer.se) <<EOF
 0
-vallzoffcgg
-anjyy
-slebew
-Vallz007
+alwaysfaxz
+alwaysfaxz
+alwaysfaxz
+alwaysfaxz
 Asia/Jakarta
 $email
 $email
-vallzoffc
+alwaysfaxz
 adm
-adm
+By-AlwaysFaxz
 $password
 $subdomain
 y
